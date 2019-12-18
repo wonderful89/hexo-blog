@@ -51,14 +51,18 @@ friends: [
 navmenu: [
 {
    title: "阅读",
-   url: "#",        
+   url: "/reading",        
+},
+{
+   title: "标签",
+   url: "/tags",        
 },
 {
    title: "杂类",
-   url: "#/tags",        
+   url: "/other",        
 },
 {
-   title: "About me",
+   title: "关于",
    url: "/about",        
 },
 # {

@@ -99,3 +99,7 @@ theme: ace
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: ''
+server:
+  port: 4001
+  compress: true
+  header: true

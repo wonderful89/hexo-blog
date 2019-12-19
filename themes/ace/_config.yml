@@ -49,17 +49,21 @@ friends: [
 ]
 ## Nav Menus
 navmenu: [
+ {
+   title: "编码",
+   url: "/coding",        
+},
 {
    title: "阅读",
    url: "/reading",        
 },
 {
-   title: "标签",
-   url: "/tags",        
+   title: "引文",
+   url: "/quote",        
 },
 {
-   title: "杂类",
-   url: "/other",        
+   title: "标签",
+   url: "/tags",        
 },
 {
    title: "关于",
@@ -79,7 +83,7 @@ sticky_tag: "Sticky"
 
 # Analytics settings
 #Baidu Analytics
-ba_track_id: 
+ba_track_id: e06a19e03034d31fbf66c4025022ee63
 # Google Analytics
 ga_track_id:           # Format: UA-xxxxxx-xx
 ga_domain: 
@@ -92,7 +96,7 @@ share: false
 # RSS: false
 # weibo_username:     Demonbaneen
 # zhihu_username:     Demonbane
-github_username:    xxx
+github_username:    wonderful89
 # twitter_username:   Demonbane_x
 # facebook_username:  xxx
 # linkedin_username:  xxx
@@ -102,6 +106,7 @@ anchorjs: true                          # if you want to customize anchor. check
 
 # Disqus settings
 #disqus_username: your-disqus-ID
+disqus_username: qqzhao
 
 # Valine settings 
 # Valine depends on leancloud, please signup leancloud to get appid/appkey. https://valine.js.org/quickstart.html
